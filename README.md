@@ -1,6 +1,6 @@
 # Openblocks template
 
-This template deploys a self-hosted version of [Openblocks](https://openblocks.dev/). The Open Source Retool Alternative for building internal tools fast, with no limitations.
+This template deploys a self-hosted version of [Imgproxy](https://imgproxy.net/).Fast and secure standalone server for resizing and converting remote images.
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/z-IiRE?referralCode=HT4TtK)
 
