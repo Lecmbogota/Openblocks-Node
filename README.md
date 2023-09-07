@@ -55,6 +55,13 @@ Building an internal app basically takes 5 steps:
 - You can also deploy the app by clicking on the `Publish` button on the top right corner
 - Enjoy 🎉
 
+## ⚙️ Known issues
+1. Openblock's API and Node service doesn't auto deploy or start after deploying <br>
+   **Solutions**: 
+   1. Pull the repository to your local machine and use the Railway CLI to link to the project, and run `railway up ` for both of the services to be deployed.
+   ![image](https://user-images.githubusercontent.com/26257950/266133869-3240e956-9137-41fb-a5dd-26cccc6ea18f.png)
+   2. Try redeploying the service which is hang up for long time from Railway UI and delete the old deployment instance once new instance is up and running.
+
 ## 📝 Notes
 
 - Source repo: https://github.com/openblocks-dev/openblocks
